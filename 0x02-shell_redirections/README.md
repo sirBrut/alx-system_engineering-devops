@@ -1,1 +1,1 @@
-0x02-shell_redirections
+echo 'Shell I/O redirections'
